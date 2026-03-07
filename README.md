@@ -1,16 +1,71 @@
-## Hi there 👋
+# 🧑‍💻<!-- mude o emoji pfv --> Erick Soares 
 
-<!--
-**Erickhitman/Erickhitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web Front-End`**
 
-Here are some ideas to get you started:
+Pt-br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+Me chamo Erick da Rocha Soares, tenho 18 anos e sou natural de Ferraz de Vasconcelos, São Paulo. Concluí o ensino médio integrado ao curso técnico em Administração pela Etec de Ferraz de Vasconcelos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ferraz de Vasconcelos, buscando desenvolver minhas habilidades na área de tecnologia.
+</p>
+
+Eng
+<p align="justify">
+My name is Erick da Rocha Soares, I am 18 years old and I am from Ferraz de Vasconcelos, São Paulo, Brazil. I completed high school integrated with a technical course in Administration at Etec de Ferraz de Vasconcelos. Currently, I am studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos, focusing on developing my skills in the technology field.
+</p>
+
+<p align="left">
+    <a href="https://www.instagram.com/erick.soares___/">
+        <img 
+            alt="Instagram" 
+            title="Follow-me" 
+            src="https://img.shields.io/badge/@erick.soares___-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/Erickhitman?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total stars on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Erickhitman?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/Erickhitman?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Erickhitman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
