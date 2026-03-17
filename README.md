@@ -36,14 +36,14 @@ My name is Erick da Rocha Soares, I am 18 years old and I am from Ferraz de Vasc
         />
     </a>
 
-    <a href="https://www.linkedin.com/in/erick-soares-6570393b4/?locale=en-US">
+<a href="https://www.linkedin.com/in/erick-soares-6570393b4/?locale=en-US">
     <img 
         alt="LinkedIn" 
         title="Connect with me on LinkedIn" 
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 
-    <a href="mailto:erickdarochasoares@gmail.com">
+<a href="mailto:erickdarochasoares@gmail.com">
     <img 
         alt="Email" 
         title="Send me an email" 
