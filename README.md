@@ -43,7 +43,7 @@ My name is Erick da Rocha Soares, I am 18 years old and I am from Ferraz de Vasc
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 
-<a href="mailto:erickdarochasoares@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlQsqNgdNHDjPmNDkxNdrvXRXxXQsZZVjzgnjcKwgkZlPVNspJvJQvKmZzvRzRwSQwxLl">
     <img 
         alt="Email" 
         title="Send me an email" 
