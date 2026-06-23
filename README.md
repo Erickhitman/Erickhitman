@@ -1,6 +1,6 @@
 # 🧑‍💻<!-- mude o emoji pfv --> Erick Soares 
 
-**`Desenvolvedor Web Front-End`**
+**`Desenvolvedor Web`**
 
 Pt-br
 
