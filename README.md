@@ -5,12 +5,12 @@
 Pt-br
 
 <p align="justify">
-Me chamo Erick da Rocha Soares, tenho 18 anos e sou natural de Ferraz de Vasconcelos, São Paulo. Concluí o ensino médio integrado ao curso técnico em Administração pela Etec de Ferraz de Vasconcelos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ferraz de Vasconcelos, buscando desenvolver minhas habilidades na área de tecnologia.
+Me chamo Erick da Rocha Soares, tenho 19 anos e sou natural de Ferraz de Vasconcelos, São Paulo. Concluí o ensino médio integrado ao curso técnico em Administração pela Etec de Ferraz de Vasconcelos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ferraz de Vasconcelos, buscando desenvolver minhas habilidades na área de tecnologia.
 </p>
 
 Eng
 <p align="justify">
-My name is Erick da Rocha Soares, I am 18 years old and I am from Ferraz de Vasconcelos, São Paulo, Brazil. I completed high school integrated with a technical course in Administration at Etec de Ferraz de Vasconcelos. Currently, I am studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos, focusing on developing my skills in the technology field.
+My name is Erick da Rocha Soares, I am 19 years old and I am from Ferraz de Vasconcelos, São Paulo, Brazil. I completed high school integrated with a technical course in Administration at Etec de Ferraz de Vasconcelos. Currently, I am studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos, focusing on developing my skills in the technology field.
 </p>
 
 <p align="left">
