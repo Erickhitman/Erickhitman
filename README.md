@@ -13,6 +13,7 @@ Eng
 My name is Erick da Rocha Soares, I am 19 years old and I am from Ferraz de Vasconcelos, São Paulo, Brazil. I completed high school integrated with a technical course in Administration at Etec de Ferraz de Vasconcelos. Currently, I am studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos, focusing on developing my skills in the technology field.
 </p>
 
+
 <p align="left">
     <a href="https://www.instagram.com/erick.soares___/">
         <img 
@@ -117,7 +118,14 @@ My name is Erick da Rocha Soares, I am 19 years old and I am from Ferraz de Vasc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-
-
 <br/>
+<br/>
+<br/>
+<table border="0" width="100%">
+  <tr>
+    <td align="right" width="50%">
+      <img src="profile/top-langs.svg" alt="Top Linguagens" width="100%" />
+    </td>
+  </tr>
+</table>
 <br/>
