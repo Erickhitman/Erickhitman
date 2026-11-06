@@ -15,13 +15,6 @@ My name is Erick da Rocha Soares, I am 19 years old and I am from Ferraz de Vasc
 
 
 <p align="left">
-    <a href="https://www.instagram.com/erick.soares___/">
-        <img 
-            alt="Instagram" 
-            title="Follow-me" 
-            src="https://img.shields.io/badge/@erick.soares___-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a> 
     <a href="https://github.com/Erickhitman?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
